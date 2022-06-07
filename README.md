@@ -1,3 +1,3 @@
 # Optymalizacja-Kombinatoryczna20-21
 
-123412341234
+## Projekt zaliczeniowy z przedmiotu Optymalizacja Kombinatoryczna na Politechnice Poznańskiej (Informatyka, semestr 5.) 
